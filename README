@@ -1,0 +1,23 @@
+I have created a /temp .git repository at https://github.com/cmlh/PTES to assist in this QA process.
+
+At the moment I envision the roadmap and .git workflow will be:
+
+1. I have started to read the wiki page, i.e. http://www.pentest-standard.org/index.php/Intelligence_Gathering not the txt file provided by Adrian and made notes leveraging https://github.com/blog/42-commit-comments 
+
+These "commit comments" are made in a top down fashion so are subject to change later as I read and consider the wiki page in its entirety.
+
+The progress I have made tonight can be viewed at https://github.com/cmlh/PTES/commit/df6e215f865418cf75e4ebd4872cefcaeabafa47 and I am expected to finish RSN :)
+
+2. Once people have replied to https://github.com/cmlh/PTES/commit/df6e215f865418cf75e4ebd4872cefcaeabafa47 I will update the txt format of the wiki page in a "QA" git branch and may create specific "topic" branches if needed.  These can be viewed at https://github.com/cmlh/PTES/branches  
+
+3. After I have completed the second stage I will merge the QA branch with the master branch and this will mark the completion of each sprint/activity/tasks/project and can therefore be transitioned to the wiki page(s), PDF(s), etc.
+
+I have added Chris Gates as a contrib to the .git repository and willing to add others if they sent me their @github handle.  Also there is nothing prohibiting the internet from "pulling" these files using https://github.com/cmlh/PTES.git
+
+http://cmlh.id.au/contact
+
+
+
+
+
+
